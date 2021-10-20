@@ -12,7 +12,9 @@ outputGen(input("enter a name"), input("enter a birthday"))
 2.***installation/running project***
 This section should be included at the top of whatever "main" python file that you're using the given functions in.
 - include main.py in the same folder as the projects main python file
-- include the following at the top of your python projects main file ***from main import ****
+- include the following at the top of your python projects main file 
+- from main import *
 This should allow you to use the ouputGen() function inside your python project
 
-3.***contributions
+3.***contributions***
+Contributions are welcome and encouraged!
